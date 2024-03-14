@@ -1,0 +1,8 @@
+/* Title styles for centering and adding padding */
+.title {
+  text-align: center;
+  padding: 20px; /* Adjust padding as needed */
+  width: 100%;
+  max-width: 1200px; /* Control the maximum width to center the title */
+  margin-bottom: 30px; /* Space between title and charts */
+}
